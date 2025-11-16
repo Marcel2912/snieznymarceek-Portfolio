@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-Server%20Creator-informational?style=for-the-badge&logo=minecraft&logoColor=white&color=green" alt="Server Creator Badge"/>
   <img src="https://img.shields.io/badge/-Bot%20Developer-informational?style=for-the-badge&logo=discord&logoColor=white&color=purple" alt="Bot Developer Badge"/>
   <br>
-  **Tworzę zaawansowane pluginy i systemy dla Minecrafta.** 🚀
+**Tworzę pluginy i systemy Minecrafta**, które **sprawiają, że gra staje się lepsza i bardziej zabawna.** 🚀
 </p>
 
 ---
@@ -37,11 +37,7 @@
   <br>
   <img src="https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logo=minecraft&logoColor=white" alt="Spigot Badge" />
   <img src="https://img.shields.io/badge/PaperMC-3DDC84?style=for-the-badge&logo=minecraft&logoColor=white" alt="PaperMC Badge" />
-  <img src="https://img.shields.io/badge/BungeeCord/Velocity-F2803A?style=for-the-badge&logo=serverfault&logoColor=white" alt="Proxy Badge"/>
   <br>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven Badge"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle Badge"/>
 </p>
@@ -50,12 +46,14 @@
 
 ## 👤 O Mnie
 
-> Cześć! Jestem **doświadczonym Developerem Minecraft**, który tworzy **zaawansowane pluginy**, **boty** i **kompletne sieci serwerów**. 🛠️
-> Moją pasją jest projektowanie **unikalnych rozwiązań** i **funkcji**, które wnoszą powiew świeżości do rozgrywki. Stawiam na **wydajność** i **przejrzysty kod**.
+> Hej! Tworzę **pluginy Minecraft**, **boty** i różne **systemy serwerowe**, które naprawdę działają. ⚡  
+> Lubię wymyślać **fajne funkcje** i **praktyczne rozwiązania**, które sprawiają, że gra staje się ciekawsza.  
+> Koduję tak, żeby wszystko było **szybkie, przejrzyste i łatwe w użyciu**.
+ i **przejrzysty kod**.
 
 ---
 
-## 🎨 Galeria Projektów (Showcase)
+## 🎨 Galeria Projektów;
 
 <div align="center">
 
@@ -138,8 +136,9 @@
 
 ## 🤝 Współpraca i Kontakt
 
-<h2 align="center">Chcesz stworzyć coś niesamowitego? 💡</h2>
-<h3 align="center">Napisz do mnie na priv, a omówimy Twój pomysł i wycenę! <br>Szybko, solidnie i profesjonalnie. </h3>
+<h2 align="center">Masz pomysł? 💡</h2>
+<h3 align="center">Napisz do mnie na priv – pogadamy, ustalimy szczegóły i wycenę. <br>Bez zbędnego czekania, szybko i profesjonalnie.</h3>
+
 
 <p align="center">
   <a href="https://discord.com/users/1055766707387506760">
@@ -149,10 +148,11 @@
 
 ### Dlaczego warto ze mną współpracować?
 
-* **Indywidualne podejście** do każdego projektu, dopasowane do Twoich potrzeb.
-* **Stały kontakt** i **jasna komunikacja** na każdym etapie prac.
-* **Szybka realizacja** przy zachowaniu **wysokiej jakości** i dbałości o szczegóły.
-* Możliwość **poprawek** i **wsparcia** po zakończeniu projektu.
+* **Spersonalizowane podejście** – każdy projekt traktuję indywidualnie, dopasowując rozwiązania do Twoich potrzeb.
+* **Pełna komunikacja** – jesteśmy w stałym kontakcie, a wszystkie etapy prac są przejrzyste i jasne.
+* **Szybkie i solidne wykonanie** – realizuję projekty sprawnie, nie rezygnując z jakości i dbałości o detale.
+* **Wsparcie po zakończeniu** – oferuję możliwość poprawek i pomoc, gdy projekt już jest gotowy.
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Klakier%20On%20Top&fontSize=50&fontColor=fff&animation=twinkling" />
