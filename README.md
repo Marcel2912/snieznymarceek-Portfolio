@@ -53,7 +53,7 @@
 <tr>
 <td align="center"><img src="https://i.imgur.com/pctv5QH.png" width="250px" style="border-radius:15px;box-shadow:0 0 20px #00f2fe;"><br><b>Projekt #1</b></td>
 <td align="center"><img src="https://i.imgur.com/YilhrI4.png" width="250px" style="border-radius:15px;box-shadow:0 0 20px #00f2fe;"><br><b>Projekt #2</b></td>
-<td align="center"><img src="https://i.imgur.com/2eihxao.png" width="250px" style="border-radius:15px;box-shadow:0 0 20px #00f2fe;"><br><b>Projekt #2</b></td>
+<td align="center"><img src="https://i.imgur.com/2eihxao.png" width="250px" style="border-radius:15px;box-shadow:0 0 20px #00f2fe;"><br><b>Projekt #3</b></td>
 
 
 
