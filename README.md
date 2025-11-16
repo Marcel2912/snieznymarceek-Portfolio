@@ -1,5 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=KlakierOnTop">
-</a>
 
 
 
